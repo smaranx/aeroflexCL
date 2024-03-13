@@ -1,8 +1,3 @@
-# Container Loading
+# test-loading-container
 
-# Run:
-```
-pip install -r requirements.txt
-pip install -r requirements_tests.txt
-python main.py
-```
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-bdfu4b)
